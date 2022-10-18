@@ -1,2 +1,5 @@
 # WIP_rsps-rrm
-Redstone Record Manager - by RedstonersPub
+Redstone Record Manager - RedstonersPub
+
+Developer
+- `discord@WavePlayz#7915`
